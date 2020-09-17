@@ -1,8 +1,8 @@
-#R Programming
+# R Programming
 
 - [Week 1: Writing code/setting your working directory](#Week 1: Writing code/ setting your working directory)
 
-###Week 1: Writing code/ setting your working directory
+### Week 1: Writing code/ setting your working directory
 
 * `getwd()`: get working directory
 
