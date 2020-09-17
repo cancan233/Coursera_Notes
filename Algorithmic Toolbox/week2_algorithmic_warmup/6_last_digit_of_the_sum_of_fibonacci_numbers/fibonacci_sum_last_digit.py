@@ -31,18 +31,19 @@ def Pisanoperiod(m):
 
 
 def fibonacci_sum_fast(n):
-    if n <= 1:
-        return n
 
     pisano_period = Pisanoperiod(10)
     previous, current, sum = 0, 1, 1
     n = n % pisano_period
-    for i in range(1, pisano_period):
-        previous, current = current, (previous + current) % 10
-        sum = (sum + current) % 10
-        if i == (n - 1):
-            n_sum = sum
-    return (sum * pisano_period + n_sum) % 10
+    if n <= 1:
+        return n
+    else:
+        for i in range(1, pisano_period):
+            previous, current = current, (previous + current) % 10
+            sum = (sum + current) % 10
+            if i == (n - 1):
+                n_sum = sum
+        return (sum * pisano_period + n_sum) % 10
 
 
 if __name__ == "__main__":
