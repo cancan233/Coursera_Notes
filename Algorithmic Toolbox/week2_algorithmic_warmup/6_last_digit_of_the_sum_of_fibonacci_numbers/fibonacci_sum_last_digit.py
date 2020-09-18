@@ -30,23 +30,22 @@ def Pisanoperiod(m):
             return i + 1
 
 
+### F0 + F1 + F2 + ... + Fn = F(n+2) - 1
 def fibonacci_sum_fast(n):
-
     pisano_period = Pisanoperiod(10)
-    previous, current, sum = 0, 1, 1
-    n = n % pisano_period
-    if n <= 1:
+    previous, current = 0, 1
+    if n <= 2:
         return n
-    else:
-        for i in range(1, pisano_period):
-            previous, current = current, (previous + current) % 10
-            sum = (sum + current) % 10
-            if i == (n - 1):
-                n_sum = sum
-        return (sum * pisano_period + n_sum) % 10
+    # if n == 2:
+    #     return 3
+    n = (n + 2) % pisano_period
+    for i in range(n - 1):
+        previous, current = current, (previous + current) % 10
+    return (current + 9) % 10
 
 
 if __name__ == "__main__":
     input = sys.stdin.read()
     n = int(input)
+    # n = 3
     print(fibonacci_sum_fast(n))
