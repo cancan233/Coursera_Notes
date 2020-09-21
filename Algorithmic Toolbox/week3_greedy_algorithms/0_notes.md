@@ -93,12 +93,47 @@ The running time of `PointsCoverSorted()` is $O(n)$.
 Sorting in $O(n logn)$ and the total running time would be $O(nlogn)$
 
 ## Fractional Knapsack
+``` python
+def Knapsack(W, w1, v1, ..., wn, vn):
+    A = [0 for i in range(len(n))]
+    V = 0
+    for _ in range(n):
+        if W = 0:
+            return (V, A)
+        ## select i with wi > 0 and max(vi/wi)
+        max_vj_wj = 0
+        for j in range(n):
+            if wj > 0 and vj/wj > max_vj_wj:
+                max_vj_wj = vi/wi
+                i = j
+        a = min(wi, W)
+        V += a*vi/wi
+        wi -= a
+        A[i] = A[i]+a
+        W -= a
+    return (V, A)
+```
 
+The running time of ```Knapsack``` is $O(n^2)$.
 
+``` python
+def Knapsack_optimized(W, w1, v1, ..., wn, vn):
+    ### Assume that the data is sorted based upon vi/wi.
+    A = [0 for i in range(len(n))]
+    V = 0
+    for i in range(n):
+        if W = 0:
+            return (V, A)
+        ## select i with wi > 0 and max(vi/wi)
+        a = min(wi, W)
+        V += a*vi/wi
+        wi -= a
+        A[i] = A[i]+a
+        W -= a
+    return (V, A)
+```
 
-
-
-
+Thus, after sorting ```Knapsack``` is $O(n)$.
 
 
 
