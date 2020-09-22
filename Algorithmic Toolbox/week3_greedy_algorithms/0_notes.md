@@ -122,7 +122,7 @@ def Knapsack_optimized(W, w1, v1, ..., wn, vn):
     A = [0 for i in range(len(n))]
     V = 0
     for i in range(n):
-        if W = 0:
+        if W == 0:
             return (V, A)
         ## select i with wi > 0 and max(vi/wi)
         a = min(wi, W)
