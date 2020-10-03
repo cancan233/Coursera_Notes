@@ -31,3 +31,22 @@ LinearSearch(A, low, high, key):
     return NOT_FOUND
 ```
 
+## Binary Search
+**Input**: A sorted array *A*, elements in *A* can repeat, and a key *k*
+**Output**: An index, *i*, where *A[i] = k*; Otherwise, the greatest index *i*, where *A[i] < k*; Otherwise, *low-1*.
+
+```python
+import math
+
+BinarySearch(A, low, high, key):
+    if high < low:
+        return low - 1
+    mid = math.floor(low + (high - low)/2)
+    if key = A[mid]:
+        return mid
+    else if key < A[mid]:
+        return BinarySearch(A, low, mid - 1, key)
+    else if key > A[mid]:
+        return BinarySearch(A, mid + 1, high, key)
+```
+
