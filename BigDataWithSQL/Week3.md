@@ -1,3 +1,5 @@
+# Week 3
+
 ## WHERE Clause
 
 only affects which rows are returned not which columns are returned.
@@ -13,6 +15,7 @@ only affects which rows are returned not which columns are returned.
 * filters rows in result
 * only one expression
 * expression must be Boolean
+* cannot be in the SELECT list
 
 Examples:
 

@@ -1,3 +1,5 @@
+# Week 2
+
 * DESCRIBE tablename; to show the information of the table.
 * order of operations: 1) * and \ 2) + and -. 3) parentheses can override the sequences.
 
