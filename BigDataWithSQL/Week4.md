@@ -120,7 +120,7 @@ SELECT min_age,
 
 * in SQL, aggregate functions ignore NULL values.
 
-![image-20210322204517537](C:%5CUsers%5CUSER%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20210322204517537.png)
+![image-20210322204517537](https://i.imgur.com/wx40U7d.png)
 
 (Answer: The **nullif** function is needed to prevent division by 0. The query should be similar to **SELECT AVG(distance/(nullif(air_time,0)/60)) FROM fly.flights;** )
 
@@ -166,28 +166,28 @@ SELECT shop, COUNT(*) FROM inventory WHERE price < 20
 
 ## Week 4 Core Quiz
 
-![image-20210322234848195](C:/Users/USER/AppData/Roaming/Typora/typora-user-images/image-20210322234848195.png)
+<img src="https://i.imgur.com/Xcdt56K.png" alt="image-20210322234848195"  />
 
 
 
-![image-20210322235626062](C:/Users/USER/AppData/Roaming/Typora/typora-user-images/image-20210322235626062.png)
+![image-20210322235626062](https://i.imgur.com/ohJhM9H.png)
 
-![image-20210322234907219](C:/Users/USER/AppData/Roaming/Typora/typora-user-images/image-20210322234907219.png)
+![image-20210322234907219](https://i.imgur.com/QSd40KZ.png)
 
-![image-20210322234915437](C:/Users/USER/AppData/Roaming/Typora/typora-user-images/image-20210322234915437.png)
+![image-20210322234915437](https://i.imgur.com/N5HfiSO.png)
 
-![image-20210322234923344](C:/Users/USER/AppData/Roaming/Typora/typora-user-images/image-20210322234923344.png)
+![image-20210322234923344](https://i.imgur.com/19q5xLu.png)
 
-![image-20210322234930842](C:/Users/USER/AppData/Roaming/Typora/typora-user-images/image-20210322234930842.png)
+![image-20210322234930842](https://i.imgur.com/PKwAwDN.png)
 
-![image-20210322234938288](C:/Users/USER/AppData/Roaming/Typora/typora-user-images/image-20210322234938288.png)
+![image-20210322234938288](https://i.imgur.com/llavMFA.png)
 
-![image-20210322234946153](C:/Users/USER/AppData/Roaming/Typora/typora-user-images/image-20210322234946153.png)
+![image-20210322234946153](https://i.imgur.com/QfKhfyP.png)
 
-![image-20210322234958240](C:/Users/USER/AppData/Roaming/Typora/typora-user-images/image-20210322234958240.png)
+![image-20210322234958240](https://i.imgur.com/O5gPHut.png)
 
 ## Understanding Hive and Impala Version Differences
 
-![image-20210323002539105](C:/Users/USER/AppData/Roaming/Typora/typora-user-images/image-20210323002539105.png)
+![image-20210323002539105](https://i.imgur.com/apQQG1s.png)
 
-![image-20210323002548156](C:/Users/USER/AppData/Roaming/Typora/typora-user-images/image-20210323002548156.png)
+![image-20210323002548156](https://i.imgur.com/YF29zMC.png)

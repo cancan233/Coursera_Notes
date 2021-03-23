@@ -3,7 +3,7 @@
 * DESCRIBE tablename; to show the information of the table.
 * order of operations: 1) * and \ 2) + and -. 3) parentheses can override the sequences.
 
-![image-20210320175344068](https://raw.githubusercontent.com/cancan233/notes_pics/main/img/20210321011427.png)
+![image-20210320175344068](https://i.imgur.com/cbbWfDt.png)
 
 * division: divide two integers might not result in an integer.
 
@@ -59,31 +59,31 @@ Conventions:
 
 ### Week 2 Core Quiz
 
-![image-20210321004841632](https://raw.githubusercontent.com/cancan233/notes_pics/main/img/20210321011435.png)
+![image-20210321004841632](https://i.imgur.com/MptD4Yu.png)
 
-![image-20210321004917475](https://raw.githubusercontent.com/cancan233/notes_pics/main/img/20210321011438.png)
+![image-20210321004917475](https://i.imgur.com/RvKqkCt.png)
 
 The option "Listing all the data in a table" should also be checked.
 
-![image-20210321004947773](https://raw.githubusercontent.com/cancan233/notes_pics/main/img/20210321011440.png)
+![image-20210321004947773](https://i.imgur.com/MwqZ9Bt.png)
 
-![image-20210321005020153](https://raw.githubusercontent.com/cancan233/notes_pics/main/img/20210321011442.png)
+![image-20210321005020153](https://i.imgur.com/xQmz7o0.png)
 
-![image-20210321005043372](https://raw.githubusercontent.com/cancan233/notes_pics/main/img/20210321011447.png)
+![image-20210321005043372](https://i.imgur.com/a5h5V9W.png)
 
-![image-20210321005052987](https://raw.githubusercontent.com/cancan233/notes_pics/main/img/20210321011450.png)
+![image-20210321005052987](https://i.imgur.com/e0p2Duq.png)
 
-![image-20210321005103867](https://raw.githubusercontent.com/cancan233/notes_pics/main/img/20210321011452.png)
+![image-20210321005103867](https://i.imgur.com/Q7Zmf0v.png)
 
-![image-20210321005115465](https://raw.githubusercontent.com/cancan233/notes_pics/main/img/20210321011455.png)
+![image-20210321005115465](https://i.imgur.com/kICG0GX.png)
 
-![image-20210321005126011](https://raw.githubusercontent.com/cancan233/notes_pics/main/img/20210321011457.png)
+![image-20210321005126011](https://i.imgur.com/BeKh8aZ.png)
 
-![image-20210321005133966](https://raw.githubusercontent.com/cancan233/notes_pics/main/img/20210321011459.png)
+![image-20210321005133966](https://i.imgur.com/FCcV0sf.png)
 
-![image-20210321005143212](https://raw.githubusercontent.com/cancan233/notes_pics/main/img/20210321011501.png)
+![image-20210321005143212](https://i.imgur.com/ZzihOgF.png)
 
-![image-20210321005154107](https://raw.githubusercontent.com/cancan233/notes_pics/main/img/20210321011504.png)
+![image-20210321005154107](https://i.imgur.com/O0wRv2E.png)
 
 ## Honors Part
 
@@ -128,10 +128,10 @@ In file, to add comment
 
 ### Honored Quiz
 
-![image-20210321180046418](https://raw.githubusercontent.com/cancan233/notes_pics/main/img/20210321180046.png)
+![image-20210321180046418](https://i.imgur.com/sAzd2vD.png)
 
-![image-20210321180101977](https://raw.githubusercontent.com/cancan233/notes_pics/main/img/20210321180102.png)
+![image-20210321180101977](https://i.imgur.com/3FgRM9p.png)
 
-![image-20210321180111124](https://raw.githubusercontent.com/cancan233/notes_pics/main/img/20210321180111.png)
+![image-20210321180111124](https://i.imgur.com/vyrIF4s.png)
 
-![image-20210321180120879](https://raw.githubusercontent.com/cancan233/notes_pics/main/img/20210321180120.png)
+![image-20210321180120879](https://i.imgur.com/4Wu8A6M.png)

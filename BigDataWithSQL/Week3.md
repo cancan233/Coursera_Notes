@@ -137,25 +137,25 @@ SELECT color, red + green + blue > 650 AS light
 
 ### Core Quiz
 
-![image-20210322015732879](https://raw.githubusercontent.com/cancan233/notes_pics/main/img/20210322015733.png)
+![image-20210322015732879](https://i.imgur.com/3sk2LR3.png)
 
-![image-20210322015743617](https://raw.githubusercontent.com/cancan233/notes_pics/main/img/20210322015743.png)
+![image-20210322015743617](https://i.imgur.com/W3PrJ7V.png)
 
-![image-20210322015758067](https://raw.githubusercontent.com/cancan233/notes_pics/main/img/20210322015758.png)
+![image-20210322015758067](https://i.imgur.com/6YcOVfa.png)
 
-![image-20210322015808594](https://raw.githubusercontent.com/cancan233/notes_pics/main/img/20210322015808.png)
+![image-20210322015808594](https://i.imgur.com/NyJfoiH.png)
 
-![image-20210322020355910](https://raw.githubusercontent.com/cancan233/notes_pics/main/img/20210322020355.png)
+![image-20210322020355910](https://i.imgur.com/IZvff6x.png)
 
-![image-20210322015832739](https://raw.githubusercontent.com/cancan233/notes_pics/main/img/20210322015832.png)
+![image-20210322015832739](https://i.imgur.com/zX18yHK.png)
 
-![image-20210322015846053](https://raw.githubusercontent.com/cancan233/notes_pics/main/img/20210322015846.png)
+![image-20210322015846053](https://i.imgur.com/Ysnzv9d.png)
 
-![image-20210322020708405](https://raw.githubusercontent.com/cancan233/notes_pics/main/img/20210322020708.png)
+![image-20210322020708405](https://i.imgur.com/TdyNKv6.png)
 
-![image-20210322015857935](https://raw.githubusercontent.com/cancan233/notes_pics/main/img/20210322015858.png)
+![image-20210322015857935](https://i.imgur.com/ul3d0Wb.png)
 
-![image-20210322015908580](https://raw.githubusercontent.com/cancan233/notes_pics/main/img/20210322015908.png)
+![image-20210322015908580](https://i.imgur.com/fdtXty1.png)
 
 ## Using Hive and Impala in Scripts and Applications
 
