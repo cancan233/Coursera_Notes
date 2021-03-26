@@ -191,3 +191,4 @@ SELECT shop, COUNT(*) FROM inventory WHERE price < 20
 ![image-20210323002539105](https://i.imgur.com/apQQG1s.png)
 
 ![image-20210323002548156](https://i.imgur.com/YF29zMC.png)
+

@@ -78,3 +78,9 @@ Execution Order: `FROM, WHERE, GROUP BY, HAVING, SELECT, ORDER BY, LIMIT`.
 ![image-20210323201555045](https://i.imgur.com/KhFbq47.png)
 
 ![image-20210323201604704](https://i.imgur.com/qgeUoFC.png)
+
+## Honors Quiz
+
+![image-20210323222913393](https://i.imgur.com/0wAK9Vp.png)
+
+![image-20210323222924063](https://i.imgur.com/JwanFFz.png)
